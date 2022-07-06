@@ -1,0 +1,89 @@
+body {
+    width: 100%;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+section {
+    display: flex;
+
+}
+
+h1 {
+
+    font-size: 30px;
+
+}
+
+.link-style {
+    margin-left: 300px;
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.div1 {
+    width: 50%;
+}
+
+
+.header {
+
+    background-image: url(images/0.png);
+    background-repeat: no-repeat;
+
+}
+
+/*--header ends here--*/
+.donate {
+    background-color: rgb(239, 240, 241);
+    text-align: center;
+    height: 370px;
+    margin-top: 20px;
+}
+
+.donate h1,
+p {
+    margin-left: 400px;
+}
+
+
+.amount {
+    display: flex;
+    margin-left: 500px;
+}
+
+.amount h2 {
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(236, 231, 231);
+    border-radius: 5px;
+}
+
+.link-style2 {
+    margin-left: 380px;
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.taka {
+    border: 2px solid teal;
+    background-color: pink;
+}
+
+.pera {
+
+    padding: 12px;
+    border-bottom: 1px solid black;
+    opacity: .2;
+}
+
+/*--donate ends--*/
+.plan {
+    display: flex;
+}
