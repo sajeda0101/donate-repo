@@ -37,7 +37,9 @@ p {
     padding: 10px 40px;
     text-decoration: none;
     border-radius: 10px;
+    margin-left: 500px;
 }
+
 
 
 /*--header ends here--*/
@@ -256,8 +258,6 @@ img {
 
     margin-left: 320px;
     height: 70px;
-
-
 }
 
 .send input {
